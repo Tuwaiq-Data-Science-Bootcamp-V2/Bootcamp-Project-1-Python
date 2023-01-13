@@ -38,12 +38,11 @@ if theMovie == "yes":
                 # time to calculate the tickets
                 numb = int(input("If you please write how many tickets you want :) "))
 
-                def numtick(numb):
-                    x = lambda numb: numb * 20.5
-                    print("the total for the tickes is", x(numb),"$")
-                    print("Thank you :)")
+                
+                 x = lambda numb: numb * 20.5
+                 print("the total for the tickes is", x(numb),"$")
+                 print("Thank you :)")
 
-                numtick(numb)
 
 
             else:
