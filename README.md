@@ -4,6 +4,7 @@
 
 ### Menu for Restaurant
 
+#### Main features
 * Browse menu.
 * Description for the selected item.
 * Add to order.
