@@ -15,14 +15,14 @@ The main goal of this game is to be one of the two players to get **three** symb
 <img alt="tic tac toe image" src="tic-tac-toe-winning.png">
 
 
+### As a player I should be able to do the following:
+- See the Tic-Tac-Toe game
+- Enter his mark "X or O"
+- See the game result
 
-## Main features
+## Main Function
 - Function to print Tic Tac Toe 
 - Function to check if any player has won  or tied
 - Function to check for move input
 
 
-### As a player I should be able to do the following:
-- See the Tic-Tac-Toe game
-- Enter his mark 
-- See the game result
