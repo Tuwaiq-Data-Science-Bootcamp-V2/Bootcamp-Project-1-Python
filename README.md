@@ -1,8 +1,8 @@
-#Moath ALmogheera
+# Moath ALmogheera
 
-#Project-1
+# Project-1
 
-###Menu for restaurant
+### Menu for Restaurant
 
 * Browse menu.
 * Description for the selected item.
