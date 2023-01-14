@@ -1,41 +1,15 @@
-# Bootcamp-Project-1-Python
+# 1- Cinema for Kids
+for this project I write codes for helping the cinema to make sure **the user** has write everything right :)
 
-Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). 
-
-### This project must at least satisfy the following minimum requirements:
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
-- Apply Markdown Rules
+### This cinema has *rules*:
+- the age of the kids must be between 6 - 10 years old
+- the price for the one ticket is 20.5
 
 
+# 2- Short video suggestion 
+For this project, I write codes to assist **the user** in finding the perfect timing to watch a short video.
 
-## Example: Riyadh Season Reservations
-
-### Overview: 
-An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
-
-As a visitor I should be able to do the following:
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my tickets purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
-
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file contains:
-  - Introduction about your idea.
-  - Main features.
-
-- Due Date: Sun, 15, at 08:00 a.m.
-- The Final presentation will be on Sunday (5 min for each one).
+### This videos *timing*:
+- 10 minutes video ( this is the maximum time for watching)
+- 5 minutes video
+- 2 minutes video
