@@ -1,41 +1,43 @@
-# Bootcamp-Project-1-Python
+# **Python SHA256 Hashing Algorithm**
+##  What is **SHA256** Hashing?
+**SHA** stands for ***Secure Hash Algorithm***, which represent cryptographic hash functions. These functions have excellent uses in protecting sensitive information such as passwords, personal identifiers such as identification items.
 
-Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). 
+**SHA256** uses a 256-bit key to take a piece of data and convert it into a new unrecognizable data string of a fixed length. This string of random characters and numbers, called a hash value, is also 256 bits in size.
+[For More Information](https://en.wikipedia.org/wiki/SHA-2)
 
-### This project must at least satisfy the following minimum requirements:
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
-- Apply Markdown Rules
+<img src="sha256.jpeg" width="944" height="362" />
+
+---
+
+## What makes the SHA256 algorithm interesting is that:
+
+- **It is a one-way algorithm, meaning the algorithm cannot be returned to its original value**
 
 
+- **Any change to the input will change the output.** Even the smallest change to the input file will result in a change to the resulting hash value
 
-## Example: Riyadh Season Reservations
 
-### Overview: 
-An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
+- **The odds of “collisions” are low.** This mean two different input values will practically never yield the same result, allowing us to maintain integrity and uniqueness of data.
 
-As a visitor I should be able to do the following:
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my tickets purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
+#Main Features:
 
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file contains:
-  - Introduction about your idea.
-  - Main features.
+---
 
-- Due Date: Sun, 15, at 08:00 a.m.
-- The Final presentation will be on Sunday (5 min for each one).
+#### **On this project I've used:**
+
+- Module called "**hashlib**" which allows me to  use different hash algorithms in Python
+
+
+- Loop
+
+ 
+- Condition
+
+
+- Nested Dictionary
+
+
+- Function that return an output
+
+
+- Lambda Function
