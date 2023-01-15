@@ -1,41 +1,23 @@
-# Bootcamp-Project-1-Python
+# CREDENTIALS MANAGER
 
-Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). 
+**Credential Manager (CM):** *a python program tool* to help you ***mange, add, store, update, and delete*** your credentials.
 
-### This project must at least satisfy the following minimum requirements:
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
-- Apply Markdown Rules
+Credentials might be in form of **Password, Tokens, or API** Keys. Also it provides you with a function to **generate a new credential** if needed. lastly, you can generate a QR Code form any of your credentials as you like! 
 
+## Features
+| No.| Name | Description |
+|:----:|:------:|:-------------:|
+|1| Display | You can **view all** currently saved credentials. |
+|2| Search | The **search fuction** enables the user to search by *the uniqe ID* for the Credential or by *The Name*. |
+|3| Add | You can **Add new credentials** or **Generate it.** |
+|4| Update | This feature allows you to **edit** *your credentials*. |
+|5| Delete | The **Delete function** deletes and record (credential) *and re-sort your Safe for easy access.*|
+|6|QR Code | *A fuction to generate a* **QR Code Image** from any of your credentials and save it locally as `.png` file. |
 
+---
+This project is a submission for: [Bootcamp-Project-1-Python](https://github.com/Tuwaiq-Data-Science-Bootcamp-V2/Bootcamp-Project-1-Python)
 
-## Example: Riyadh Season Reservations
-
-### Overview: 
-An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
-
-As a visitor I should be able to do the following:
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my tickets purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
-
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file contains:
-  - Introduction about your idea.
-  - Main features.
-
-- Due Date: Sun, 15, at 08:00 a.m.
-- The Final presentation will be on Sunday (5 min for each one).
+|By:|Ali Almuhaysin|
+|---|---|
+|Date:| 15/1/2023|
+|---|---|
