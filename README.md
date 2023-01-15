@@ -1,41 +1,19 @@
-# Bootcamp-Project-1-Python
+# Introduction
 
-Based on what you’ve learned until now, create a project of your choosing (impress us with your imagination). 
+### nutrition clinic site
 
-### This project must at least satisfy the following minimum requirements:
-- Use at least 3 different data types.
-- Use lists or dictionaries or tuples or sets.
-- Use loops.
-- Use functions that return an output.
-- Use conditions.
-- Use a Lambda function.
-- Apply Markdown Rules
+A simple **nutrition clinic site**where a patient can calculate their age and body mass index and find out if they are thin, normal or obese.  Using the dictionary, the clinic numbers are displayed so that the user can choose the clinic number and then show the doctor's name, location and phone number.
 
 
 
-## Example: Riyadh Season Reservations
 
-### Overview: 
-An online website that shows different events. The visitor should be able to do the following tasks for the store to function properly.
 
-As a visitor I should be able to do the following:
-- Browse Events.
-- View the event info (summary, time, price, place, etc.)
-- Search for an Event.
-- Get recommendations for my next visit based on my tickets purchase history.
-- Add tickets to the shopping cart.
-- Remove a ticket from the shopping cart.
-- List the tickets in my shopping cart.
-- Modify the number of ticket (by default one ticket).
-- Continue to checkout.
-- Get a QR code for my ticket.
-- Review my coming events.
+### Mean features
 
-## Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file contains:
-  - Introduction about your idea.
-  - Main features.
+- The patient's age was calculated using lambda 
 
-- Due Date: Sun, 15, at 08:00 a.m.
-- The Final presentation will be on Sunday (5 min for each one).
+- The patient's BMI was calculated using function
+
+- The (conditions) was used to find out whether the body mass was normal, thin or obese
+
+- Using the dictionary, the clinic numbers are displayed so that the user can choose the clinic number and then show the doctor's name, location and phone number.
